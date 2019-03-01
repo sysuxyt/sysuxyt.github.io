@@ -1,3 +1,19 @@
+---
+    author: kresnikwang
+    comments: true
+    date: 2015-04-28 17:42:32+00:00
+    layout: post
+    title: PHP, Angular JS Development|My Export Quote|农产品出口工具开发
+    categories:
+    - Works
+    - Tech
+    tags:
+    - bootstrap
+    - javascript
+    - php
+    - AngularJS
+    ---
+
 #增加ros namespace属性中遇到的坑
 
 '''
