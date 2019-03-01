@@ -1,4 +1,4 @@
----
+
     author: kresnikwang
     comments: true
     date: 2015-04-28 17:42:32+00:00
@@ -12,7 +12,6 @@
     - javascript
     - php
     - AngularJS
-    ---
 
 #增加ros namespace属性中遇到的坑
 
