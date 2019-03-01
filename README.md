@@ -27,6 +27,10 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#github上搭建博客
+1. github上新建仓库，仓库名为“用户名.github.io",则可生成博客网址https://用户名.github.io
+2. 仓库setting的github page选项下选择source和theme
+3. https://html5up.net网站下载博客网页模板，push到新仓库中（git push origin master,支持md格式文件）。
 
 ### Jekyll Themes
 
