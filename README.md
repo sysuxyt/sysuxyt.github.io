@@ -24,20 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](
-        sysuxyt.github.io/增加ros_ns属性遇到的坑.md
+        
       ) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-#github上搭建博客
-1. github上新建仓库，仓库名为“用户名.github.io",则可生成博客网址https://用户名.github.io
-2. 仓库setting的github page选项下选择source和theme
-3. https://html5up.net网站下载博客网页模板，push到新仓库中（git push origin master,支持md格式文件）。
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysuxyt/sysuxyt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[sysuxyt.github.io/增加ros_ns属性遇到的坑.md](增加ros_ns属性遇到的坑)
